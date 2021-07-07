@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="...">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Wakanda-Git/url_formulaire_preinscription/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
